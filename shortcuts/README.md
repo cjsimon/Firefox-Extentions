@@ -1,2 +1,2 @@
 #shortcuts
-Custom shortcuts for firefox
+Custom keyboard shortcuts for firefox
